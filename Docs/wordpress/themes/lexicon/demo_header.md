@@ -46,5 +46,7 @@ Here is a breakdown of the widget options for this menu widget. Any options not 
 | Maximum Depth     | 10           |  
 | Custom Chrome     | Menu         |  
 
+Set the Widget variations to "Flush"
+
 [demo]: assets/demo_1.jpeg
 [faq]: faq.md
